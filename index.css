@@ -1,8 +1,1 @@
-@import url("./components/buttons.css");
-@import url("./components/bg.css");
-
-@import url("https://cdn.statically.io/gh/Gourab2005/Kalpanix/main/");
-@import url("https://cdn.statically.io/gh/Gourab2005/Kalpanix/main/");
-
-@import url("https://cdn.jsdelivr.net/gh/Gourab2005/Kalpanix/main/components/buttons.css");
-@import url("https://cdn.jsdelivr.net/gh/Gourab2005/Kalpanix/main/components/bg.css");
+@import url("merge.css");
